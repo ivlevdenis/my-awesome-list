@@ -12,3 +12,7 @@
 ### Markup:
 **Markdown:**
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+### OS
+- [pipaOS](http://pipaos.mitako.eu/) - A lighweight, fast, Raspbian based distro
+for the Raspberry PI
