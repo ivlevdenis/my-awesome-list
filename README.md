@@ -3,6 +3,9 @@
 ### Databases:
 - [Hasura](https://hasura.io) - Instant Realtime GraphQL on Postgres
 
+### ORM's:
+- [PEEWEE](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql and sqlite 
+
 ### Django:
 - [drf-yasg](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
 
